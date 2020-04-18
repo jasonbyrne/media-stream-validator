@@ -7,7 +7,7 @@ This project is a simple Node wrapper, written in TypeScript with full typing go
 Please note that it can take a while to run because it downloads and evaluates the entire video, including each rendition.
 
 ```
-import { mediaStreamValidator, } from "mediastreamvalidator";
+import { mediaStreamValidator } from "mediastreamvalidator";
 
 const streamUri = "YOUR_STREAM_URL_HERE";
 
