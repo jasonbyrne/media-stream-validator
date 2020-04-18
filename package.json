@@ -1,0 +1,30 @@
+{
+  "name": "media-stream-validator",
+  "version": "1.0.0",
+  "description": "Node wrapper for Apple's mediastreamvalidator tool to validate HLS streams. Written in TypeScript with complete typing coverage.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonbyrne/media-stream-validator.git"
+  },
+  "keywords": [
+    "mediastreamvalidator",
+    "media",
+    "stream",
+    "validator",
+    "apple",
+    "hls",
+    "video",
+    "live",
+    "streaming"
+  ],
+  "author": "Jason Byrne <jason.byrne@flosports.tv>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonbyrne/media-stream-validator/issues"
+  },
+  "homepage": "https://github.com/jasonbyrne/media-stream-validator#readme"
+}
